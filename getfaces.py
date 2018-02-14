@@ -6,3 +6,5 @@ import string
 import os
 import math
 
+targfname = input("Target image filename: ")
+vidfname = input("Input video filename: ")
